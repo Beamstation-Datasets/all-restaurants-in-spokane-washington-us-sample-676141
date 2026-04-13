@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Spokane, Washington with a population of over 228k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
+  "config_name": "All Restaurants in Spokane, Washington, US",
+  "export_job_id": "e5d4a06c-5550-480e-955d-96fab999d376",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 676141,
+  "location_name": "Spokane",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-spokane-washington-us-sample-676141",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/676141/beamstation_676141_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_pct": 9.93,
+  "sample_records": 73,
+  "sample_sha256": "ab9b7c35d470fb659c94995f9f5a819f0255416301cd129ac88aa520db44c086",
+  "sample_size_bytes": 291232,
+  "total_records": 735,
+  "updated_at": "2026-04-09T10:24:14.986318+00:00"
+}

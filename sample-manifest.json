@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e5d4a06c-5550-480e-955d-96fab999d376",
+  "id_short": 676141,
+  "published_at": "2026-04-13T07:18:41Z",
+  "repo_name": "all-restaurants-in-spokane-washington-us-sample-676141",
+  "sample_asset_name": "beamstation_676141_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/676141/beamstation_676141_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_records": 73,
+  "sample_sha256": "ab9b7c35d470fb659c94995f9f5a819f0255416301cd129ac88aa520db44c086",
+  "sample_size_bytes": 291232,
+  "total_records": 735
+}
